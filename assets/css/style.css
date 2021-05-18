@@ -109,8 +109,21 @@ footer {
     color: #3a3a3a;
 }   
 
+/* gallery */
+ 
+#images {
+    clear: both;
+    column-count: 4;
+    column-gap: 0;
+    line-height: 0;
+
     
+}
     
+#images > img {
+    width: 100%;
+
+}
     
     
 
