@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     border: none;
-    background-color:lightgoldenrodyellow;
+    background-color: lightgoldenrodyellow;
     
 }
  
@@ -66,7 +66,7 @@ h2 {
 
 }
 img {
-    margin-top: 22px;
+    margin-top: 20px;
 }
 
 .afrobeats-info {
@@ -82,23 +82,35 @@ img {
 }
 
 .info {
- margin: 30px 60px 10px;
- margin-right: 14px;
- padding-left: 10px;
+ margin: 40px 60px 10px;
+ padding-left: 20px;
   letter-spacing: 4px;
   word-spacing: 9px;
-  font-size: 18px;
-  font-family:Arial, Helvetica, sans-serif;
+  font-size: 100%;
+  font-style:initial;
   
 }
     
-
-
-    
-
-    
-    
-    
-    
-
+/* footer */
+footer {
+    height: 50px;
 }
+
+.social-networks {
+    text-align: center;
+}
+.social-networks >li {
+    display: inline;
+}
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}   
+
+    
+    
+    
+    
+
