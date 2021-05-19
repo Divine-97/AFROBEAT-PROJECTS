@@ -126,6 +126,16 @@ footer {
 
 }
 
+/* music */
+#music {
+    clear:both;
+    column-count: 3;
+    column-gap: 0;
+    line-height: 0;
+
+}
+
+
 /* media querries */
 
 
