@@ -86,8 +86,9 @@ img {
  padding-left: 25px;
   letter-spacing: 4px;
   word-spacing: 4px;
-  font-size: 120%;
-  font-style:normal;
+  font-size: 118%;
+  font-family:fantasy;
+  font-weight: bolder;
   
 }
     
@@ -124,6 +125,10 @@ footer {
     height: 400px;
 
 }
+
+/* media querries */
+
+
     
     
 
