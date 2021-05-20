@@ -115,9 +115,7 @@ footer {
 #images {
     clear: both;
     column-count: 4;
-    line-height: 0;
-
-    
+    line-height: 0; 
 }
     
 #images > img {
@@ -126,7 +124,18 @@ footer {
 
 }
 
+.img-with.text {
+    display: block;
+    margin: 0 auto;
+}
 
+.img-with-text img {
+    width: 100%;
+    height: 400px;
+    clear: both;
+    column-count: 4;
+    line-height: 0;
+}
 /* music */
 #music {
     clear:both;
