@@ -94,7 +94,7 @@ img {
     
 /* footer */
 footer {
-    height: 50px;
+    height: 70px;
 }
 
 .social-networks {
@@ -104,7 +104,7 @@ footer {
     display: inline;
 }
 .social-networks i {
-    font-size: 160%;
+    font-size: 180%;
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
@@ -126,19 +126,35 @@ footer {
 
 }
 
+
 /* music */
 #music {
     clear:both;
     column-count: 3;
-    column-gap: 0;
     line-height: 0;
 
 }
 
-
-/* media querries */
-
-
+/* For larger to medium screen sizes from 1200px wide and down */
+@media  screen and (max-width: 1200px) {
+    .about-info {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+ 
+    .img {
+        padding: 30px 0;
+        margin: 0;
     
-    
+    }
 
+    /* for medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+    #nav.links {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
