@@ -124,9 +124,8 @@ footer {
 
 }
 
-.img-with.text {
-    display: block;
-    margin: 0 auto;
+.img-with-text {
+    text-align: center;
 }
 
 .img-with-text img {
@@ -137,6 +136,7 @@ footer {
     line-height: 0;
 }
 /* music */
+
 #music {
     clear:both;
     column-count: 3;
@@ -160,10 +160,4 @@ footer {
 
     /* for medium screen sizes from 950px wide and down */
 @media screen and (max-width: 950px) {
-    #nav.links {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
+   
