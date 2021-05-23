@@ -1,5 +1,3 @@
-
- 
 body {
     font-weight: 400;
     font-family: sans-serif;
@@ -150,20 +148,38 @@ footer {
 
 }
 
-/* For larger to medium screen sizes from 1200px wide and down */
-@media  screen and (max-width: 1200px) {
-    .about-info {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
-    }
- 
-    .img {
-        padding: 30px 0;
-        margin: 0;
-    
+ /* Media querries */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .container {
+        max-height: 100%;
+        display: block;
     }
 
-    /* for medium screen sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
-   
+}
+
+/* for small screen sizes from 600px wide and down */
+   @media only screen and (min-width: 600px) {
+    .container {
+        max-height: 100%;
+        display: block;
+    }
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .container {
+        max-height: 100%;
+        display: block;
+    }
+}    
+      
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .container {
+        max-height: 100%;
+        display: flex;
+    }
+}    
+}
+
