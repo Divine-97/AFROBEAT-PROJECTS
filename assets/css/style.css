@@ -6,7 +6,7 @@ body {
     background-color: lightgoldenrodyellow;
     
 }
-/* h1 h2 */
+/* h1 h2 h3 */
  
 h1 {
     text-align: center;
@@ -19,7 +19,13 @@ h2 {
    font-family: sans-serif;
    font-size: 34px;
 }
+h3 {
+    text-align: justify;
+   font-family:sans-serif;
+   font-size: 20px;
+   font-weight:500;
 
+}
 
 /* nav links */
 
