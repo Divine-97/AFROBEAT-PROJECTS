@@ -90,7 +90,7 @@ img {
   word-spacing: 4px;
   font-size: 118%;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: lighter;
+  font-weight: 500;
   
 }
     
@@ -150,6 +150,9 @@ footer {
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 250%;
+    }
     .container {
         max-height: 100%;
         display: block;
@@ -157,6 +160,13 @@ footer {
     }
     hr {
         display: none;
+    }
+
+    .info {
+        text-align: start
+        margin-top: 12px;
+        margin-left: 35px;
+        margin-right: 40px;
     }
     img { 
         width: 100%;
@@ -174,9 +184,16 @@ footer {
 
 /* for small screen sizes from 600px wide and down */
    @media only screen and (min-width: 600px) {
+       h1 {
+           font-size: 250%;
+       }
     .container {
         max-height: 100%;
         display: block;
+    }
+    
+    #nav-links {
+        display: inline;
     }
 
 /* Medium devices (landscape tablets, 768px and up) */
