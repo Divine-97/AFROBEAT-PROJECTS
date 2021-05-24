@@ -167,7 +167,7 @@ footer {
 
     .info {
         text-align: start;
-        margin-top: 12px;
+        margin-top: 25px;
         margin-left: 5px;
         margin-right: 5px;
     }
@@ -175,7 +175,7 @@ footer {
         width: 100%;
     }
     #images {
-        column-count: 2;
+        column-count: 1;
         width: 100%;
         height: 40%;
     }
@@ -184,18 +184,16 @@ footer {
         width: 100%;
     }
 }
-
-/* for small screen sizes from 600px wide and down */
+/* Small devices (portrait tablets and large phones, 600px and up) */
    @media only screen and (min-width: 600px) {
        h1 {
-           font-size: 250%;
-       }
-
-       #nav-links {
+           font-size: 240%;
+    }
+      #nav-links {
         margin-right: 30px;
         margin-top: -16px;
-       }
-       
+    }
+        
     .container {
         max-height: 100%;
         display: block;
@@ -204,14 +202,13 @@ footer {
     img {
         width: 100%;
     }
-    
-    #nav-links {
-        display: inline;
-    }
 
     #images {
         column-count: 1;
         width: 100%;
+    }
+    #music {
+        column-count: 1;
     }
 
 }
