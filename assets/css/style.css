@@ -18,6 +18,7 @@ h2 {
 }
 h3 {
     text-align: justify;
+    margin-bottom: 12px;
    font-size: 20px;
    font-weight:500;
 
@@ -63,11 +64,9 @@ hr {
 .container {
     max-height: 100%;
     display: flex;
-
-    
-
 }
 img {
+    width: 100%;
     margin-top: 15px;
 }
 
@@ -153,6 +152,10 @@ footer {
     h1 {
         font-size: 250%;
     }
+    #nav-links {
+        margin-right: 30px;
+        margin-top: -16px;
+    }
     .container {
         max-height: 100%;
         display: block;
@@ -163,10 +166,10 @@ footer {
     }
 
     .info {
-        text-align: start
+        text-align: start;
         margin-top: 12px;
-        margin-left: 35px;
-        margin-right: 40px;
+        margin-left: 5px;
+        margin-right: 5px;
     }
     img { 
         width: 100%;
@@ -187,29 +190,77 @@ footer {
        h1 {
            font-size: 250%;
        }
+
+       #nav-links {
+        margin-right: 30px;
+        margin-top: -16px;
+       }
+       
     .container {
         max-height: 100%;
         display: block;
+    }
+    
+    img {
+        width: 100%;
     }
     
     #nav-links {
         display: inline;
     }
 
+    #images {
+        column-count: 1;
+        width: 100%;
+    }
+
+}
+
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     .container {
-        max-height: 100%;
         display: block;
     }
-}    
-      
+    #images {
+        column-count: 2;
+        width: 100%;
+    }
+    
+    #music {
+        column-count: 2;
+    }
+}
+
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
     .container {
-        max-height: 100%;
         display: flex;
     }
-}    
+    .afrobeats-img {
+        float: left;
+        min-height: fit-content;
+        min-width: fit-content;
+    }
+
+    #images {
+        column-count: 4;
+        width: 100%;
+    }
+    #music {
+        column-count: 4;
+    }
 }
 
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .container {
+        display: flex;
+    }
+
+    .afrobeats-img {
+        float: left;
+        min-height: fit-content;
+        min-width: fit-content;
+    }
+    
+}
