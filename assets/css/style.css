@@ -147,6 +147,17 @@ footer {
 
  /* Media querries */
 
+ @media only screen and (max-width: 320px) {
+    h1 {
+            font-size: 120%;
+    }
+        
+    #nav-links {
+        display: inline;
+        font-size: 120%;
+    }
+ }
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     h1 {
