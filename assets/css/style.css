@@ -92,6 +92,13 @@ img {
   font-weight: 500;
   
 }
+ 
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: #f3cd00;
+}
     
 /* footer */
 footer {
@@ -149,7 +156,7 @@ footer {
 
  @media only screen and (max-width: 320px) {
     h1 {
-            font-size: 120%;
+            font-size: 50%;
     }
         
     #nav-links {
