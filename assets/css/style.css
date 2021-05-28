@@ -151,6 +151,9 @@ footer {
     line-height: 0;
 
 }
+iframe {
+    frameborder: 0;
+}
 
  /* Media querries */
 
