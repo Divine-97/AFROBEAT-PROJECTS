@@ -22,18 +22,20 @@ The page starts with the heading Afrobeat. I also included an Afrobeat image tha
 ![Image 29-05-2021 at 20 47](https://user-images.githubusercontent.com/81257331/120083232-1e9fae80-c0bf-11eb-880a-41be24d83028.jpg)
 
 
-The heading and nav bar is kept the same to keep the same feel as the main page ensuring familiarity for the user through all pages. This page features images of some top afrobeat artists. I included their names below their images, I aslo inlcuded links to their names so you will be redirected to either their website or wikipedia when clicked on. I had to take a screenshot of the images from the artists Instagram pages.
+The heading and nav bar is kept the same to keep the same feel as the main page ensuring familiarity for the user through all pages. This page features images of some top afrobeat artists. This page gives the user an idea of who the top artsits are as I included their names below their images, I aslo inlcuded links to their names so you will be redirected to either their website or wikipedia when clicked on. This will give you al lot more information about the artists as well as other afrobeat artists. I had to take a screenshot of the images from the artists Instagram pages.
 
 * Music Page
 
 ![Image 29-05-2021 at 20 48](https://user-images.githubusercontent.com/81257331/120083253-4f7fe380-c0bf-11eb-9fc8-80f09e6a582b.jpg)
 
 
-Again, the heading and nav bar is kept the same to keep the same feel as the main page ensuring familiarity for the user . On this page I emebeded videos from youtube just so the users can watch and listen to a few afrobeat songs. 
+Again, the heading and nav bar is kept the same to keep the same feel as the main page ensuring familiarity for the user . On this page I emebeded videos from youtube just so the users can watch and listen to a few afrobeat songs. This will also give you an oportunity to click on the youtube link where you will find more afrobeat songs.
 
 * Footer section
 
 ![Image 29-05-2021 at 20 50](https://user-images.githubusercontent.com/81257331/120083303-b2717a80-c0bf-11eb-8c26-077f6b28d8c3.jpg)
 The footer section includes links to the relevant social media sites for Afrobeat. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media.
+
+#### User Stories
 
