@@ -30,3 +30,10 @@ The heading and nav bar is kept the same to keep the same feel as the main page 
 
 
 Again, the heading and nav bar is kept the same to keep the same feel as the main page ensuring familiarity for the user . On this page I emebeded videos from youtube just so the users can watch and listen to a few afrobeat songs. 
+
+* Footer section
+
+![Image 29-05-2021 at 20 50](https://user-images.githubusercontent.com/81257331/120083303-b2717a80-c0bf-11eb-8c26-077f6b28d8c3.jpg)
+The footer section includes links to the relevant social media sites for Afrobeat. The links will open to a new tab to allow easy navigation for the user.
+The footer is valuable to the user as it encourages them to keep connected via social media.
+
