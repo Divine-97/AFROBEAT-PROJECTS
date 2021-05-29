@@ -37,13 +37,13 @@ Again, the heading and nav bar is kept the same to keep the same feel as the mai
 The footer section includes links to the relevant social media sites for Afrobeat. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media.
 
-#### Technologies Used
+### Technologies Used
 
 * HTML 5
 * CSS3
 * Fontawesome Icons - icons used in footer section.
 
-##### Testing
+### Testing
 
 ### Deployment
 
