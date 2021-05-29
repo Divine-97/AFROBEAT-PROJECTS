@@ -45,4 +45,26 @@ The footer is valuable to the user as it encourages them to keep connected via s
 
 ##### Testing
 
+######Deployment
+
+The project was created in Gitpod and then pushed to Github as a repository.
+
+Adding and Commiting Files
+
+To add files to the repository you will have to:
+
+Type "git add . " in the command line
+Then type "git commit -m" followed by your commit message
+Then type "git push" to push your changes to send your new work to the repository.
+Deploying the site
+
+To deploy the project you will have to:
+
+Login to Github
+Click the settings button when in the repository
+Scroll down to the pages section
+Under source, click the dropdown called "none" and change it to master branch
+The page will automatically refresh and display a url link to the website.
+
+
 
