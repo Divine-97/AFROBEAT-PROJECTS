@@ -4,7 +4,7 @@
 ![Image 28-05-2021 at 18 50](https://user-images.githubusercontent.com/81257331/120083085-4d695500-c0be-11eb-8651-fe07b003bc9d.jpg)
 
 
-This is a website for Afrobeat, a music genre which involves the combination of elements of West African musical styles such as fuji music and highlife with American jazz and later soul and funk influences. This website gives a breief understanding of Afrobeat. The site consists of 3 pages, a home page, top artsits page, music page. This website also consits of a footer secotion.
+This is a website for Afrobeat, a music genre which involves the combination of elements of West African musical styles such as fuji music and highlife with American jazz and later soul and funk influences. This website gives a brief understanding of Afrobeat. The site consists of 3 pages, a home page, top artsits page, music page. This website also consits of a footer section.
 
 Check out Afrobeat Website [here](https://divine-97.github.io/AFROBEAT-PROJECTS/).
 
@@ -19,8 +19,14 @@ The page starts with the heading Afrobeat. I also included an Afrobeat image tha
 
 * Top Artists Page
 
+![Image 29-05-2021 at 20 47](https://user-images.githubusercontent.com/81257331/120083232-1e9fae80-c0bf-11eb-880a-41be24d83028.jpg)
+
+
 The heading and nav bar is kept the same to keep the same feel as the main page ensuring familiarity for the user through all pages. This page features images of some top afrobeat artists. I included their names below their images, I aslo inlcuded links to their names so you will be redirected to either their website or wikipedia when clicked on. I had to take a screenshot of the images from the artists Instagram pages.
 
 * Music Page
+
+![Image 29-05-2021 at 20 48](https://user-images.githubusercontent.com/81257331/120083253-4f7fe380-c0bf-11eb-9fc8-80f09e6a582b.jpg)
+
 
 Again, the heading and nav bar is kept the same to keep the same feel as the main page ensuring familiarity for the user . On this page I emebeded videos from youtube just so the users can watch and listen to a few afrobeat songs. 
