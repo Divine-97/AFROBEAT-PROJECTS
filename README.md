@@ -1,8 +1,8 @@
 # **AFROBEAT**
 
 ## Description 
+![Image 28-05-2021 at 18 50](https://user-images.githubusercontent.com/81257331/120083085-4d695500-c0be-11eb-8651-fe07b003bc9d.jpg)
 
- ![Image of Afrobeat](https//divine-97.github.io/AFROBEAT-PROJECTS/assets/images/afrobwesite.jpg")
 
 This is a website for Afrobeat, a music genre which involves the combination of elements of West African musical styles such as fuji music and highlife with American jazz and later soul and funk influences. This website gives a breief understanding of Afrobeat. The site consists of 3 pages, a home page, top artsits page, music page. This website also consits of a footer secotion.
 
