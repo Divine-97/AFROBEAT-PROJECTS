@@ -16,3 +16,11 @@ Featured on all 3 pages, the navigation bar has links to the Home page, the Top 
 * The Home Page
 
 The page starts with the heading Afrobeat. I also included an Afrobeat image that I downloaded from google, I then poisitioned the image on the left side of the page. I then added some information about Afrobeat on the right side of the page. The information added is just a brief understanding of Afrobeat and the history.
+
+* Top Artists Page
+
+The heading and nav bar is kept the same to keep the same feel as the main page ensuring familiarity for the user through all pages. This page features images of some top afrobeat artists. I included their names below their images, I aslo inlcuded links to their names so you will be redirected to either their website or wikipedia when clicked on. I had to take a screenshot of the images from the artists Instagram pages.
+
+* Music Page
+
+Again, the heading and nav bar is kept the same to keep the same feel as the main page ensuring familiarity for the user . On this page I emebeded videos from youtube just so the users can watch and listen to a few afrobeat songs. 
