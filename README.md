@@ -45,7 +45,7 @@ The footer is valuable to the user as it encourages them to keep connected via s
 
 ##### Testing
 
-######Deployment
+### Deployment
 
 The project was created in Gitpod and then pushed to Github as a repository.
 
