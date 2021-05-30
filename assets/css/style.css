@@ -152,7 +152,7 @@ footer {
 
 }
 iframe {
-    frameborder: 0;
+    border-radius: 1;
 }
 
  /* Media querries */
