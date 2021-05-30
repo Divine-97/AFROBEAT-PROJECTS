@@ -113,4 +113,4 @@ I took the image from [Afrobeats image](https://www.google.com/imgres?imgurl=htt
 
 * Afrobeat info
 
-I took the information on a [wikipedia page](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67706c0000bebb4493cf7727f63448c8c38d6e&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F60aoNammYycIEeFmgblEw1&tbnid=FpMKebk-9C1Q-M&vet=12ahUKEwjkiYDfoPLwAhUQR8AKHXcHD3gQMygEegUIARDNAQ..i&docid=MmRLjeVCuKIlCM&w=640&h=640&q=afrobeats&ved=2ahUKEwjkiYDfoPLwAhUQR8AKHXcHD3gQMygEegUIARDNAQ)
+I took the information on a [wikipedia page](https://en.wikipedia.org/wiki/Afrobeat#:~:text=Afrobeat%20is%20a%20music%20genre,complex%20intersecting%20rhythms%2C%20and%20percussion.)
