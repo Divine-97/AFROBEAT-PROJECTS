@@ -115,3 +115,6 @@ The page will automatically refresh and display a url link to the website.
 * Images : I took the images from the artists Instagram pages.
 
 * Music Videos : All music videos were taken from Youtube (since all videos were embeded, you will be redirected to Youtube once clicked on the youtube link).
+
+
+I also want to thank my Mentor for all the support.
