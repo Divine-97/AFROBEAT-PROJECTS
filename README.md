@@ -63,11 +63,23 @@ The footer is valuable to the user as it encourages them to keep connected via s
  On this page the user is able to watch all music videos without actually going to youtube. Although you also have an option to click on the youtube link where you will be able to watch all other afrobeat videos as well. The user can click on every video without having any issues.
  
  
- Testing was conducted on several devices (iphone 11, iphone XR, One plus 7t, tablet) also on other web browsers (Safari and firefox).
+ Testing was conducted on several devices (iphone 11, iphone XR, iphone 7plus, One plus 7t, tablet, Samsung galaxy s7,) also on other web browsers (Safari and firefox).
  
  * Overflow issues
 
-When testing the website on smaller devices specifially on 320 pixels devices, the headings for each section were spilling out. I added a media query to my CSS code and targeted the font-size but i didnt manage to fix this problem.
+When testing the website on smaller devices specifially on 320 pixels devices, the headings for each section were spilling out. I added a media query to my CSS code and targeted the font-size but i didnt manage to fix this problem. 
+
+## Validator Testing
+
+ * HTML 
+ 
+ In addition to the physical testing all HTML and CSS code have been pushed through the validator without any errors.
+ Although I had a warning on each of these two pages( top artist and music page).
+ 
+
+![Image 30-05-2021 at 21 01](https://user-images.githubusercontent.com/81257331/120118500-c2a25c00-c18a-11eb-8317-46dacb60bf87.jpg)
+![Image 30-05-2021 at 21 03](https://user-images.githubusercontent.com/81257331/120118503-c59d4c80-c18a-11eb-9c77-ff60d72b48a3.jpg)
+
 
 
 ## Deployment
