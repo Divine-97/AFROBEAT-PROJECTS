@@ -80,6 +80,9 @@ When testing the website on smaller devices specifially on 320 pixels devices, t
 ![Image 30-05-2021 at 21 01](https://user-images.githubusercontent.com/81257331/120118500-c2a25c00-c18a-11eb-8317-46dacb60bf87.jpg)
 ![Image 30-05-2021 at 21 03](https://user-images.githubusercontent.com/81257331/120118503-c59d4c80-c18a-11eb-9c77-ff60d72b48a3.jpg)
 
+* CSS
+
+No errors were found when passing through the official (Jigsaw) validator
 
 
 ## Deployment
@@ -103,5 +106,7 @@ Scroll down to the pages section
 Under source, click the dropdown called "none" and change it to master branch
 The page will automatically refresh and display a url link to the website.
 
+# Credits
 
-
+#* Afrobeat image
+I took the image from [Afrobeats image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67706c0000bebb4493cf7727f63448c8c38d6e&imgrefurl=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F60aoNammYycIEeFmgblEw1&tbnid=FpMKebk-9C1Q-M&vet=12ahUKEwjkiYDfoPLwAhUQR8AKHXcHD3gQMygEegUIARDNAQ..i&docid=MmRLjeVCuKIlCM&w=640&h=640&q=afrobeats&ved=2ahUKEwjkiYDfoPLwAhUQR8AKHXcHD3gQMygEegUIARDNAQ) 
