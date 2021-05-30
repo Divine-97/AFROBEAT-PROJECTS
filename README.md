@@ -45,6 +45,21 @@ The footer is valuable to the user as it encourages them to keep connected via s
 
 # Testing
  To test the webpage and it's features I scrolled through the page using its features without any issues.
+ 
+ # The Navigation and home page
+ The user can clearly identify how to navigate the page by using the navigation links. The nav links show a line underneath them when you hover over them, also the line shows when you are on the page you have clicked. The Home page gives you a brief understanding of Afrobeat, you will be able to scroll down the page with no issues.
+ 
+ ## The footer section
+ All icons are include links to relevant social media which will open a new tab. All icon links work on all pages.
+ 
+ ## The Top Artists page
+ All images are clear enough for the user to see. Each image has a name below it as these names have links to them which you will be able to read about the artist. Most of the artists do not have a website so I linked their wikipedia pages instead. All links work just fine.
+ 
+ ## Music page
+ On this page the user is able to watch all music videos without actually going to youtube. Although you also have an option to click on the youtube link where you will be able to watch all other afrobeat videos as well. The user can click on every video without having any issues.
+ 
+ 
+ Testing was conducted on several devices (
 
 
 ## Deployment
