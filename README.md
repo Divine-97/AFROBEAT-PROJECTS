@@ -82,7 +82,7 @@ When testing the website on smaller devices specifially on 320 pixels devices, t
 
 * CSS
 
-No errors were found when passing through the official (Jigsaw) validator
+No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdivine-97.github.io%2FAFROBEAT-PROJECTS%2Fmusic.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 
 ## Deployment
